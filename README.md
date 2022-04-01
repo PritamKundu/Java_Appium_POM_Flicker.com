@@ -1,1 +1,1 @@
-# Java_Appium_POM_Flicker.com
+# Java-Appium-Flicker
